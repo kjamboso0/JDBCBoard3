@@ -5,6 +5,8 @@
 
 // 테스트 브랜치는 푸시 되나  
 
+// 브랜치 바꿨는데 다른 브랜치의 커밋까지 같이 들어가네??  
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
