@@ -3,6 +3,8 @@
 // 왜 또 마스터로 들어가는 걸까
 // 왜 자동 undoing 되
 
+// 브런치 
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
