@@ -1,7 +1,7 @@
 // 하 이클립스 깃헙 연동 왜 아무도 안알려주나.....ㅜㅜ
 
 // 왜 또 마스터로 들어가는 걸까
-
+// 왜 자동 undoing 되
 
 import java.sql.Connection;
 import java.sql.DriverManager;
