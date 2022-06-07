@@ -1,11 +1,14 @@
 // 하 이클립스 깃헙 연동 왜 아무도 안알려주나.....ㅜㅜ
 
+
 // 왜 또 마스터로 들어가는 걸까
 // 왜 자동 undoing 되
 
 // 테스트 브랜치는 푸시 되나  
 
 // 브랜치 바꿨는데 다른 브랜치의 커밋까지 같이 들어가네??  
+
+// 연습    
 
 import java.sql.Connection;
 import java.sql.DriverManager;
